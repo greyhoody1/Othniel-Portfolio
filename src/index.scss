@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: 'Inter', sans-serif;
+	background-color: #000;
+	color: #ccd6f6;
+	min-height: 100%;
+	-webkit-font-smoothing: antialiased;
+}
+
+::-webkit-scrollbar {
+	width: 8px;
+	background: #080808;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #111;
+	border-radius: 8px;
+}
+
+::-moz-scrollbar {
+	width: 8px;
+	background: #080808;
+}
+
+::-moz-scrollbar-thumb {
+	background: #111;
+	border-radius: 8px;
+}
+
+ul {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
