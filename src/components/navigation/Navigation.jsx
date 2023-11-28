@@ -43,7 +43,7 @@ const Navigation = () => {
 
 					<Button
 						buttonType={ButtonTypeClasses.base}
-						href='https://drive.usercontent.google.com/download?id=1fr8v2dCTmEavkQ8sRd8gBcbgQ7gV8b5o&export=download&authuser=0&confirm=t&uuid=2729ea66-5d2b-4933-a794-50b82e79063e&at=APZUnTVvYvIng2TZSc7BeFAY6DHw:1698237654510'
+						href='https://drive.usercontent.google.com/download?id=1OXMpje1_6RWfb4gpHZKgKpLqHDhht-cT&export=download&authuser=0&confirm=t&uuid=132baf20-14f5-408d-ac0d-1c87ec547256&at=APZUnTUKlazCCo8lh_C-k3LbzaO-:1701130302030'
 						target='_blank'
 						rel='noopener noreferrer'
 						download
